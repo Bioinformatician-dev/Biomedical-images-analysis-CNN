@@ -2,8 +2,9 @@
 Detecting cancer from biomedical images typically involves using machine learning or deep learning techniques, particularly convolutional neural networks (CNNs).
 
 ## Instruction
-'''bash
-data/
+
+```bash
+ data/
     train/
         cancer/
             image1.jpg
@@ -14,4 +15,4 @@ data/
     validation/
         cancer/
         no_cancer/
-'''
+```
