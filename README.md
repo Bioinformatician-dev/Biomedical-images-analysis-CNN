@@ -17,11 +17,14 @@ Prepare Dataset: Organize your images into a directory structure like:
         no_cancer/
 ```
 ## Install Required Libraries:
+
 ```bash
 pip install tensorflow
 ```
 ## Run the Code: 
+
 Save the script as cancer_detect.py and execute it:
+
 ```bash
 python cancer_detect.py
 ```
